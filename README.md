@@ -5,7 +5,7 @@
 Highly skilled software engineer with over 6 years of experience in web development, specializing in backend development using Laravel and Python. Proven ability to build robust, scalable, and secure applications. Proficient in full-stack development across web and mobile platforms, with a strong focus on data handling and API development.
 
 ## 🌐Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/scribbles_of_saurabh)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thakurcoder)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabh-1998)
 [![Twitter](https://img.shields.io/badge/Twitter-%230077B5.svg?logo=twitter&logoColor=white)](https://twitter.com/thakurcoder)
 [![Youtube](https://img.shields.io/badge/Youtube-%23E4405F.svg?logo=youtube&logoColor=white)](https://youtube.com/@thakurcoder)
