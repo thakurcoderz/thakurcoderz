@@ -1,8 +1,8 @@
 # 💫About Me :
 
-## Saurabh Singh - Software Engineer
+## Saurabh Singh - SE
 
-Highly skilled software engineer with experience in various technologies and programming languages. Proven ability to work as a full-stack developer across web and mobile platforms. 
+Highly skilled software engineer with over 6 years of experience in web development, specializing in backend development using Laravel and Python. Proven ability to build robust, scalable, and secure applications. Proficient in full-stack development across web and mobile platforms, with a strong focus on data handling and API development.
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/scribbles_of_saurabh)
