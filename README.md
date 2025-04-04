@@ -1,6 +1,6 @@
 # 💫About Me :
 
-## Saurabh Singh - SE
+## Saurabh Singh
 
 Highly skilled software engineer with over 6 years of experience in web development, specializing in backend development using Laravel and Python. Proven ability to build robust, scalable, and secure applications. Proficient in full-stack development across web and mobile platforms, with a strong focus on data handling and API development.
 
